@@ -21,7 +21,6 @@ build/
 *.crt
 *.key
 *.pem
-marmot
 dist/
 
 # NPM Stuff
